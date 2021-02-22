@@ -1,0 +1,17 @@
+{
+  "name": "com.google.google-sign-in",
+  "version": "1.0.4",
+  "displayName": "Google SignIn Unity",
+  "keywords": [
+    "Google"
+  ],
+  "author": {
+    "name": "googlesamples",
+    "url": "https://github.com/googlesamples/google-signin-unity"
+  },
+  "description": "Google SignIn Unity implements Google SignIn providers for Android and iOS Unity Apps",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.164"
+  }
+}
